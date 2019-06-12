@@ -16,6 +16,6 @@ def raise_hand
  10.times.super do
    puts "Pick Me!"
  end
-  
+end
   
 end
